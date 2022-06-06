@@ -13,4 +13,4 @@ Pull requests are welcome but please credit Hang Pham. As this project was devel
 
 
 ## Credits 
-All graphics are created with the Graphics class from Java Library. 
+All graphics are created with the Graphics class from Java Standard Library. 
